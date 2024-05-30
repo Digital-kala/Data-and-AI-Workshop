@@ -7,7 +7,8 @@ The first week is focused on Computer Hardware and Software, Digital Security an
 <br/><br/>
 
 ### Content
-<br/>
+
+---
 
 ##### Week 1
 - Day 1 : Introduction to Computers and Technology
