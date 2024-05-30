@@ -1,12 +1,21 @@
 # Data Science and AI workshop
 
-This is a 3-week workshop on Data Science and AI. The workshop is designed to be beginner-friendly and covers the basics of Python, Data Science, Machine Learning, and Data Engineering. 
+This is a 3-week workshop on Data and AI. The workshop is designed to be beginner-friendly and covers the basics of Python, Data Science, Machine Learning, and Data Engineering, and Digital Security.
 
-The first week is focused on Computer Hardware and Software, Digital Security and Excel, which is mostly presentation based and is not included in this repository. However, the second and third week are more hands-on and hence the content might require some additional guidance to understand.
+The first week is focused on Computer Hardware and Software, Digital Security and Excel, which is mostly presentation based. However, the second and third week are more hands-on and hence the content might require some additional guidance to understand.
 
 <br/><br/>
 
 ### Content
+<br/>
+
+##### Week 1
+- Day 1 : Introduction to Computers and Technology
+- Day 2 : Understanding Hardware and Software
+- Day 3 : Introduction to Excel 
+- Day 4 : Intermediate Excel
+- Day 5 : Cybersecurity Awareness
+- Day 6 : Introduction to Python Programming
 <br/>
 
 ##### Week 2
