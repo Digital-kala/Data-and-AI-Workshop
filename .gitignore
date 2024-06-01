@@ -1,2 +1,5 @@
 __pycache__/
 .DS_Store
+
+# Saved files
+budget_data.csv
