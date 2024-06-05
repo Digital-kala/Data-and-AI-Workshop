@@ -16,7 +16,7 @@ The first week is focused on Computer Hardware and Software, Digital Security an
 - Day 3 : Introduction to Excel 
 - Day 4 : Intermediate Excel
 - Day 5 : Cybersecurity Awareness
-- Day 6 : Introduction to Python Programming
+- Day 6 : Introduction to Programming
 <br/>
 
 ##### Week 2
@@ -32,5 +32,6 @@ The first week is focused on Computer Hardware and Software, Digital Security an
 - Day 1 : Git and GitHub
 - Day 2 : Introduction to Streamlit
 - Day 3 : Introduction to Machine Learning
-- Day 4 : Machine Learning (Contd.)
-- Day 5 : Data Engineering
+- Day 4 : Data Engineering
+- Day 5 : Resume creation and portfolio
+- Day 6 : Project Presentation & Closing
